@@ -68,6 +68,7 @@ li:first-letter{
 .weather-temperature .active{
     color: black;
     cursor: default;
+    text-decoration: none;
 
 }
 
